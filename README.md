@@ -10,7 +10,7 @@
 - Example: [github-actions-demo.yml](/.github/workflows/github-actions-demo.yml)
 - Example: [greet-everyone.yml](/.github/workflows/greet-everyone.yml)
 - [ ] _Hands-on Lab:_ :point_right: [Activity 1](/labs/lab01.md)
-
+ 
 ### Module 2: Syntax
 - Example: [simple-workflow.yml](/.github/workflows/simple-workflow.yml)
 - Example: [job-dependencies.yml](/.github/workflows/job-dependencies.yml)
